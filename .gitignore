@@ -1,0 +1,15 @@
+# ignore these folders
+__pycache__
+.idea
+.ipynb_checkpoints
+checkpoints
+results
+
+
+#ignore these files
+.vscode
+.ipynb
+*/.ipynb_checkpoints/* .ipynb
+data/FLAME_texture.npz
+data/*.tar
+
