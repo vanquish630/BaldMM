@@ -45,4 +45,13 @@ Downloading the FLAME texture model
 Where *i* is the input folder path and *s* the savefolder path. Please run `python demos/demo_reconstruct.py --help` for more details. 
 
 
+## Acknowledgements
+We have used code from the following repositories:  
+- [DECA](https://github.com/YadiraF/DECA)
+- [FLAME_PyTorch](https://github.com/soubhiksanyal/FLAME_PyTorch) and [TF_FLAME](https://github.com/TimoBolkart/TF_FLAME) for the FLAME model  
+- [Pytorch3D](https://pytorch3d.org/), [neural_renderer](https://github.com/daniilidis-group/neural_renderer), [SoftRas](https://github.com/ShichenLiu/SoftRas) for rendering  
+- [kornia](https://github.com/kornia/kornia) for diffrentiable image processing
+- [face_segmentation](https://github.com/zllrunning/face-parsing.PyTorch) for skin mask
+- [VGGFace2-pytorch](https://github.com/cydonia999/VGGFace2-pytorch) for identity loss  
+
 
