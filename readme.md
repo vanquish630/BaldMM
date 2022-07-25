@@ -1,7 +1,7 @@
 # Learning to regulate 3D head shape by removing occluding hair from in-the-wild images 
 
 
-![samples](https://raw.githubusercontent.com/vanquish630/BaldMM/master/demos/Sample.png)
+![samples](demos/Sample.png)
 
 
 ## Getting Started
