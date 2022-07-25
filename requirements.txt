@@ -1,0 +1,13 @@
+numpy>=1.18.5
+scipy>=1.4.1 
+chumpy>=0.69
+scikit-image>=0.15 
+opencv-python>=4.1.1 
+scikit-image>=0.15     #skimage
+PyYAML         
+torch==1.8.0   # Or any other version compatible with pytorch3d
+torchvision
+yacs==0.1.8
+kornia==0.4.0
+ninja
+fvcore

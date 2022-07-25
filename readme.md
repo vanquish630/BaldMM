@@ -14,7 +14,7 @@
 ### Requirements
 
 1. Python 3.7 (numpy, skimage, scipy, opencv)
-2. PyTorch >= 1.6
+2. PyTorch >= 1.8.0
 3. Pytorch3d, installation instructions [here](https://github.com/facebookresearch/pytorch3d/blob/main/INSTALL.md)
 
 Alternatively you can run 
